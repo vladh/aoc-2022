@@ -13,7 +13,7 @@ func main() {
 	max := 0
 	sum := 0
 
-	f, err := os.Open("data/01-1")
+	f, err := os.Open("data/01")
 	if err != nil { log.Fatal(err) }
 	defer f.Close()
 

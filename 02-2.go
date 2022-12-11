@@ -61,7 +61,7 @@ func main() {
 
 	totalScore := 0
 
-	f, err := os.Open("data/02-1")
+	f, err := os.Open("data/02")
 	if err != nil { log.Fatal(err) }
 	defer f.Close()
 
