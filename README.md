@@ -1,1 +1,1 @@
-# Advent of Code 2022 in Hare
+# Advent of Code 2022 in Go
